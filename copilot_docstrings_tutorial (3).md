@@ -87,7 +87,7 @@ Think of every Copilot suggestion as a first draft that needs a 10-second review
 
 ## Should You Add It to Your Workflow?
 
-If you write Python regularly and documentation feels like the most draining part, Copilot's docstring generation is worth a try. Setup takes minutes — install the GitHub Copilot extension in VS Code and you're ready to go.
+If you write Python regularly and documentation feels like the most draining part, Copilot's docstring generation is worth a try. Setup takes minutes, install the GitHub Copilot extension in VS Code and you're ready to go.
 
 It won't be right 100% of the time. But it will produce solid, structured documentation most of the time, which puts you ahead of the majority of codebases out there.
 
