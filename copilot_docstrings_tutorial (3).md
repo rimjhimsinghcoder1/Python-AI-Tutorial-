@@ -27,17 +27,17 @@ def calculate_discount(original_price, discount_percent):
 ```
 
 ![Before: Function with no docstring](screenshot_before.png)
-*Step 1 — A working function, but no documentation yet.*
+*Step 1: A working function, but no documentation yet.*
 
 Now, place your cursor right after the `def` line and type `"""`. Copilot reads the entire function body and suggests a full docstring in grey italic text:
 
 ![Copilot suggesting a docstring](screenshot_suggestion.png)
-*Step 2 — Copilot suggests the entire docstring automatically after you type `"""`.*
+*Step 2: Copilot suggests the entire docstring automatically after you type `"""`.*
 
 It caught the parameters, the return type, and the `ValueError`, without you typing a single word of documentation. Press **Tab ⇥** to accept, and here's what you get:
 
 ![After: Docstring accepted](screenshot_after.png)
-*Step 3 — Press Tab and the docstring is inserted into your function instantly.*
+*Step 3: Press Tab and the docstring is inserted into your function instantly.*
 
 The final result looks like this:
 
