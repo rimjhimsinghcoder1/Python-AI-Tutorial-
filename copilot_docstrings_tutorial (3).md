@@ -10,7 +10,7 @@ GitHub Copilot changes that equation. In this tutorial, you'll learn how to use 
 
 GitHub Copilot is an AI-powered coding assistant that lives right inside your editor: VS Code, PyCharm, and others. As you write code, it reads your file's context and suggests completions: next lines, whole functions, and yes, full docstrings.
 
-Because it's been trained on a massive amount of public code, it has absorbed patterns from thousands of well-documented Python projects. That's what makes it so good at describing what your code does —, often better than a rushed developer on a deadline.
+Because it's been trained on a massive amount of public code, it has absorbed patterns from thousands of well-documented Python projects. That's what makes it so good at describing what your code does often better than a rushed developer on a deadline.
 
 ---
 
