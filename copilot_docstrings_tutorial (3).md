@@ -1,6 +1,6 @@
 # Tired of Writing Docstrings? GitHub Copilot Has You Covered
 
-Let's be honest — writing docstrings is the part of coding that most developers silently skip. You've just wrestled your function into working correctly, and now you're supposed to *also* explain it in plain English? Every single time?
+Let's be honest, writing docstrings is the part of coding that most developers silently skip. You've just wrestled your function into working correctly, and now you're supposed to *also* explain it in plain English? Every single time?
 
 GitHub Copilot changes that equation. In this tutorial, you'll learn how to use it to generate Python docstrings almost automatically, where it genuinely shines, and where you'll still need to step in yourself.
 
@@ -8,15 +8,15 @@ GitHub Copilot changes that equation. In this tutorial, you'll learn how to use 
 
 ## What Exactly Is GitHub Copilot?
 
-GitHub Copilot is an AI-powered coding assistant that lives right inside your editor — VS Code, PyCharm, and others. As you write code, it reads your file's context and suggests completions: next lines, whole functions, and yes, full docstrings.
+GitHub Copilot is an AI-powered coding assistant that lives right inside your editor: VS Code, PyCharm, and others. As you write code, it reads your file's context and suggests completions: next lines, whole functions, and yes, full docstrings.
 
-Because it's been trained on a massive amount of public code, it has absorbed patterns from thousands of well-documented Python projects. That's what makes it so good at describing what your code does — often better than a rushed developer on a deadline.
+Because it's been trained on a massive amount of public code, it has absorbed patterns from thousands of well-documented Python projects. That's what makes it so good at describing what your code does —, often better than a rushed developer on a deadline.
 
 ---
 
 ## Seeing It in Action
 
-Here's where we start — a freshly written function with no documentation at all:
+Here's where we start, a freshly written function with no documentation at all:
 
 ```python
 def calculate_discount(original_price, discount_percent):
@@ -34,7 +34,7 @@ Now, place your cursor right after the `def` line and type `"""`. Copilot reads 
 ![Copilot suggesting a docstring](screenshot_suggestion.png)
 *Step 2 — Copilot suggests the entire docstring automatically after you type `"""`.*
 
-It caught the parameters, the return type, and the `ValueError` — without you typing a single word of documentation. Press **Tab ⇥** to accept, and here's what you get:
+It caught the parameters, the return type, and the `ValueError`, without you typing a single word of documentation. Press **Tab ⇥** to accept, and here's what you get:
 
 ![After: Docstring accepted](screenshot_after.png)
 *Step 3 — Press Tab and the docstring is inserted into your function instantly.*
@@ -63,7 +63,7 @@ def calculate_discount(original_price, discount_percent):
 
 ## Why This Actually Makes You a Better Developer
 
-Here's the thing — it's not just about saving time. It's about *when* you document.
+Here's the thing, it's not just about saving time. It's about *when* you document.
 
 Copilot nudges you to write documentation the moment you finish a function, while the logic is still fresh. Compare that to the classic alternative: circling back three weeks later to document functions you barely remember writing.
 
@@ -81,7 +81,7 @@ Copilot reads your code, not your mind. A few situations where you'll need to ta
 
 - **Complicated return types.** Nested dicts, custom objects, or context-dependent outputs often get vague or incomplete descriptions.
 
-Think of every Copilot suggestion as a first draft that needs a 10-second review — not a final answer.
+Think of every Copilot suggestion as a first draft that needs a 10-second review, not a final answer.
 
 ---
 
