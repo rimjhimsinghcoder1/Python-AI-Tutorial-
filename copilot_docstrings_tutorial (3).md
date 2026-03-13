@@ -67,7 +67,7 @@ Here's the thing, it's not just about saving time. It's about *when* you documen
 
 Copilot nudges you to write documentation the moment you finish a function, while the logic is still fresh. Compare that to the classic alternative: circling back three weeks later to document functions you barely remember writing.
 
-There's a consistency bonus too. If your file already uses Google style or NumPy style docstrings, Copilot picks up on that pattern and keeps everything uniform — no manual style-checking needed.
+There's a consistency bonus too. If your file already uses Google style or NumPy style docstrings, Copilot picks up on that pattern and keeps everything uniform, no manual style-checking needed.
 
 ---
 
