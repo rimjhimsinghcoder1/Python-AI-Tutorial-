@@ -1,4 +1,4 @@
-# Tired of Writing Docstrings? GitHub Copilot Has You Covered
+# Tired of Writing Docstrings? GitHub Copilot Has You Covered !
 
 Let's be honest, writing docstrings is the part of coding that most developers silently skip. You've just wrestled your function into working correctly, and now you're supposed to *also* explain it in plain English? Every single time?
 
