@@ -93,4 +93,3 @@ It won't be right 100% of the time. But it will produce solid, structured docume
 
 ---
 
-*Have a workflow tip for using Copilot with docstrings? Drop it in the comments below.*
